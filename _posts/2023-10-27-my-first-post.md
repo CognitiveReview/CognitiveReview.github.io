@@ -1,19 +1,22 @@
 ---
 layout: post
-title: "My First Research Notes"
-date: 2023-10-27
+title: "My First Post"
+date: 2023-10-27 12:00:00 +0000
+categories: [introduction, manifesto]
+author: "The Cognitive Review"
+abstract: "An opening statement: mapping the infections of attention in the digital epoch."
+---
+
+**Author:** {{ Dr. Elena Voronova }}  
+**Categories:** {{ peer-review, theory }}  
+**Abstract:** {{ page.abstract }}
+
 ---
 
 ## Introduction
 
-Here are my initial thoughts on the topic. This is like writing in Notion, but I'm using simple formatting:
+Every archive begins with an act of possession. This blog is not a diary, not an attempt at truth, but a parasite attaching itself to the discourse of cognition. What follows will not be neutral. It will function as both symptom and diagnosis.  
 
-- **Point one:** Important finding
-- **Point two:** Another observation
-- *Italic text for emphasis*
+The mind is not a fortress but a permeable membrane; ideas flow through it like contagions, invisible until they manifest as behaviors. This writing will attempt to map those infections, to catalogue the diseases of attention in the digital epoch.  
 
-> This is a block quote, perfect for citing sources or highlighting key ideas.
-
-## Conclusion
-
-More content goes here...
+Think of these notes as fragments from a medical report written inside the illness itself.
