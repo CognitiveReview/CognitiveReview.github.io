@@ -1,2 +1,2 @@
-# HaplessTW.github.io
+# CognitiveReview.github.io
 The Cognitive Review
