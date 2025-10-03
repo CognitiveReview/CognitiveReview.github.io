@@ -1,8 +1,18 @@
 ---
 layout: post
-title: "Automated Folklore: The Rise of AI-Generated Urban Legends and Their Adoption as Truth"
+title: "Automated Folklore"
 date: 2023-12-15 12:00:00 +0000
-categories: ai-narratives folklore memetics
+categories: myth memes folklore
 ---
 
-**Summary:** Tracking the lifecycle of a creepypasta that was conclusively proven to be AI-generated, yet was adopted and expanded upon by human communities as real.
+**Author:** Dr. Elena Voronova  
+**Categories:** myth, memes, folklore  
+**Abstract:** Automated Folklore
+
+---
+
+Memes are the fairy tales of the digital unconscious. Their authorship is collective, their circulation automatic. They encode lessons—often cruel, often absurd—not in moral terms but in affective force.  
+
+The folklore of the feed is automated because no one controls it; the platform itself is the bard, endlessly remixing archetypes.  
+
+We live inside a mythos that updates hourly. To know the culture is to scroll.
