@@ -3,12 +3,12 @@ layout: post
 title: "My First Post"
 date: 2023-10-27 12:00:00 +0000
 categories: [introduction, manifesto]
-author: "The Cognitive Review"
+author: "Dr. Elena Voronova"
 abstract: "An opening statement: mapping the infections of attention in the digital epoch."
 ---
 
-**Author:** {{ Dr. Elena Voronova }}  
-**Categories:** {{ peer-review, theory }}  
+**Author:** {{ page.author }}  
+**Categories:** {{ page.categories | join: ", " }}  
 **Abstract:** {{ page.abstract }}
 
 ---
