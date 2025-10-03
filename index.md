@@ -8,4 +8,4 @@ title: The Cognitive Review
 This is where I'll share my thoughts, findings, and academic musings.
 
 **Recent entries:**
-- [My First Post](._posts/2023-10-27-my-first-post.md)
+- [My First Post](./_posts/2023-10-27-my-first-post.md)
