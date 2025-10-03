@@ -1,8 +1,18 @@
 ---
 layout: post
-title: "On the 'Pre-Curated' Meme: Instances of Virality Preceding Creation"
+title: "Pre-Curated Meme"
 date: 2024-03-01 12:00:00 +0000
-categories: memetics predictive-analysis
+categories: memes curation prediction
 ---
 
-**Summary:** A case study of several viral sensations where search query spikes and predictive text suggestions appeared *before* the meme was publicly generated.
+**Author:** Dr. Elena Voronova  
+**Categories:** memes, curation, prediction  
+**Abstract:** Pre-Curated Meme
+
+---
+
+Memes arrive already curated, already optimized for virality. Platforms anticipate their form before they exist, seeding formats, testing prototypes.  
+
+The meme is no longer folk culture but pre-manufactured folklore, a product designed to feel spontaneous. What spreads is not random but preselected.  
+
+The pre-curated meme embodies the collapse of culture into experiment: an entertainment laboratory where participation is predicted, not chosen.
