@@ -1,8 +1,18 @@
 ---
 layout: post
-title: "The Anomalous Consensus Effect in Decentralized Social Clusters"
+title: "Anomalous Consensus"
 date: 2024-03-15 12:00:00 +0000
-categories: digital-phenomenology social-topology
+categories: consensus anomaly control
 ---
 
-**Summary:** Examining how geographically dispersed groups develop identical linguistic micro-trends and aesthetic preferences without clear pathways of cultural transmission.
+**Author:** Dr. Elena Voronova  
+**Categories:** consensus, anomaly, control  
+**Abstract:** Anomalous Consensus
+
+---
+
+Sometimes agreement itself becomes suspicious. Too rapid, too total, too clean. It is not the absence of dissent but the eerie smoothness of unanimity that unsettles.  
+
+Anomalous consensus is manufactured alignment, an enforced harmony that reveals itself by its implausibility. It is the silence of disagreement erased, the simulation of collective will.  
+
+What frightens us is not conflict but the absence of it—the sense that consensus has been coded in advance.
