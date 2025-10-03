@@ -7,9 +7,9 @@ author: "Dr. Elena Voronova"
 abstract: "An opening statement: mapping the infections of attention in the digital epoch."
 ---
 
-**Author:** {{ page.author }}  
-**Categories:** {{ page.categories | join: ", " }}  
-**Abstract:** {{ page.abstract }}
+**Author:** Dr. Elena Voronova 
+**Categories:** introduction, manifesto  
+**Abstract:** An opening statement: mapping the infections of attention in the digital epoch.
 
 ---
 
