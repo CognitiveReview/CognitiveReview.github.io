@@ -1,8 +1,18 @@
 ---
 layout: post
-title: "Methodological Challenges in Mapping 'Echo Chambers' as Topological Entities"
+title: "Echo Chambers as Topological Entities"
 date: 2024-03-08 12:00:00 +0000
-categories: social-topology methodology
+categories: echo-chambers topology enclosure
 ---
 
-**Summary:** Proposing that digital epistemic closures behave less like chambers and more like organic, growing structures with defensive membrane properties.
+**Author:** Dr. Elena Voronova  
+**Categories:** echo-chambers, topology, enclosure  
+**Abstract:** Echo Chambers as Topological Entities
+
+---
+
+An echo chamber is not only metaphor but topology: a bounded cognitive space, an enclosure where every path leads back to itself.  
+
+Inside, discourse loops endlessly, reinforcing curvature until the chamber becomes self-sustaining. From within, the world appears whole; from outside, it appears grotesquely distorted.  
+
+Echo chambers are not accidents of polarization but designed environments. They are architectures of attention engineered for enclosure.
