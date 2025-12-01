@@ -1,0 +1,83 @@
+
+---
+layout: post
+title: "Viral"
+date: 2024-11-05 12:00:00 +0000
+categories: the meme, ontology
+---
+
+**Author:** Dr. Elena Voronova  
+**Categories:** meme as tool, ontology architecture  
+**Abstract:** Viral
+
+---
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+word begets image, and image is virus
+
+## INTRODUCTION
